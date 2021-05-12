@@ -1,0 +1,23 @@
+.section {
+  display: flex;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: lightblue;
+}
+.section__title {
+  text-align: center;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.17;
+  letter-spacing: 0.03;
+  color: #000;
+}
+.section__text {
+  text-align: center;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 1.17;
+  letter-spacing: 0.03;
+  color: rgb(87, 10, 10);
+}
